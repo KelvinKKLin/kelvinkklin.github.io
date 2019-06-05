@@ -3,7 +3,7 @@ if (window.doNotTrack || navigator.doNotTrack || navigator.msDoNotTrack || 'msTr
         // Do Not Track is enabled. Do not load analytics script.
     } else {
         // Do Not Track is disabled. Load analytics script.
-        document.head.innerHTML += `
+        document.head.append(`
             <!-- Global site tag (gtag.js) - Google Analytics -->
             <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141532868-1"></script>
             <script>
@@ -14,10 +14,10 @@ if (window.doNotTrack || navigator.doNotTrack || navigator.msDoNotTrack || 'msTr
             
             gtag('config', 'UA-141532868-1');
             </script>
-        `
+        `);
     }
 } else {
-    document.head.innerHTML += `
+    document.head.append(`
             <!-- Global site tag (gtag.js) - Google Analytics -->
             <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141532868-1"></script>
             <script>
@@ -28,5 +28,5 @@ if (window.doNotTrack || navigator.doNotTrack || navigator.msDoNotTrack || 'msTr
             
             gtag('config', 'UA-141532868-1');
             </script>
-        `
+        `);
 }
