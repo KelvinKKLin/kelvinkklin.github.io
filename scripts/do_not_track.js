@@ -7,6 +7,7 @@ if (window.doNotTrack || navigator.doNotTrack || navigator.msDoNotTrack || 'msTr
             <!-- Global site tag (gtag.js) - Google Analytics -->
             <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141532868-1"></script>
             <script>
+            console.log("Google Analytics Enabled");
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
@@ -20,6 +21,7 @@ if (window.doNotTrack || navigator.doNotTrack || navigator.msDoNotTrack || 'msTr
             <!-- Global site tag (gtag.js) - Google Analytics -->
             <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141532868-1"></script>
             <script>
+            console.log("Google Analytics Enabled");
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
