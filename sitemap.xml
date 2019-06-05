@@ -4,13 +4,60 @@
   
   <url>
     <loc>https://kelvinkklin.github.io/blog/</loc>
-    <lastmod>2019-05-27T21:48:11-04:00</lastmod>
+    <lastmod>2019-06-04T22:34:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kelvinkklin.github.io/categories/</loc>
-    <lastmod>2019-05-27T21:48:11-04:00</lastmod>
+    <lastmod>2019-06-04T22:34:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinkklin.github.io/blog/how-to-talk-to-your-academic-advisors-about-your-double-degree/</loc>
+    <lastmod>2019-06-04T22:34:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kelvinkklin.github.io/</loc>
+    <lastmod>2019-06-04T22:34:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinkklin.github.io/tags/</loc>
+    <lastmod>2019-06-04T22:34:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinkklin.github.io/tags/double-degree/</loc>
+    <lastmod>2019-06-04T22:34:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinkklin.github.io/categories/double-degree/</loc>
+    <lastmod>2019-06-04T22:34:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinkklin.github.io/tags/mcmaster/</loc>
+    <lastmod>2019-06-04T22:34:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinkklin.github.io/categories/mcmaster/</loc>
+    <lastmod>2019-06-04T22:34:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinkklin.github.io/categories/school/</loc>
+    <lastmod>2019-06-04T22:34:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -20,49 +67,7 @@
   </url>
   
   <url>
-    <loc>https://kelvinkklin.github.io/</loc>
-    <lastmod>2019-05-27T21:48:11-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinkklin.github.io/tags/</loc>
-    <lastmod>2019-05-27T21:48:11-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinkklin.github.io/categories/double-degree/</loc>
-    <lastmod>2019-05-27T21:48:11-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinkklin.github.io/tags/double-degree/</loc>
-    <lastmod>2019-05-27T21:48:11-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kelvinkklin.github.io/tags/major/</loc>
-    <lastmod>2019-05-27T21:48:11-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinkklin.github.io/categories/mcmaster/</loc>
-    <lastmod>2019-05-27T21:48:11-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinkklin.github.io/tags/mcmaster/</loc>
-    <lastmod>2019-05-27T21:48:11-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinkklin.github.io/categories/school/</loc>
     <lastmod>2019-05-27T21:48:11-04:00</lastmod>
     <priority>0</priority>
   </url>
