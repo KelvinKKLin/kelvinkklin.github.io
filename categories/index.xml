@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kelvin Lin</title>
-    <link>https://kelvinkklin.github.io/categories/</link>
+    <link>kelvinlin.ca/categories/</link>
     <description>Recent content in Categories on Kelvin Lin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 04 Jun 2019 22:34:21 -0400</lastBuildDate>
     
-	<atom:link href="https://kelvinkklin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="kelvinlin.ca/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>double degree</title>
-      <link>https://kelvinkklin.github.io/categories/double-degree/</link>
+      <link>kelvinlin.ca/categories/double-degree/</link>
       <pubDate>Tue, 04 Jun 2019 22:34:21 -0400</pubDate>
       
-      <guid>https://kelvinkklin.github.io/categories/double-degree/</guid>
+      <guid>kelvinlin.ca/categories/double-degree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mcmaster</title>
-      <link>https://kelvinkklin.github.io/categories/mcmaster/</link>
+      <link>kelvinlin.ca/categories/mcmaster/</link>
       <pubDate>Tue, 04 Jun 2019 22:34:21 -0400</pubDate>
       
-      <guid>https://kelvinkklin.github.io/categories/mcmaster/</guid>
+      <guid>kelvinlin.ca/categories/mcmaster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>school</title>
-      <link>https://kelvinkklin.github.io/categories/school/</link>
+      <link>kelvinlin.ca/categories/school/</link>
       <pubDate>Tue, 04 Jun 2019 22:34:21 -0400</pubDate>
       
-      <guid>https://kelvinkklin.github.io/categories/school/</guid>
+      <guid>kelvinlin.ca/categories/school/</guid>
       <description></description>
     </item>
     
