@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Kelvin Lin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Jun 2019 23:04:27 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2019 23:10:01 -0400</lastBuildDate>
     
 	<atom:link href="https://kelvinlin.ca/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SE&amp;M</title>
+      <link>https://kelvinlin.ca/tags/sem/</link>
+      <pubDate>Mon, 10 Jun 2019 23:10:01 -0400</pubDate>
+      
+      <guid>https://kelvinlin.ca/tags/sem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mcmaster</title>
+      <link>https://kelvinlin.ca/tags/mcmaster/</link>
+      <pubDate>Mon, 10 Jun 2019 23:10:01 -0400</pubDate>
+      
+      <guid>https://kelvinlin.ca/tags/mcmaster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reviews</title>
+      <link>https://kelvinlin.ca/tags/reviews/</link>
+      <pubDate>Mon, 10 Jun 2019 23:10:01 -0400</pubDate>
+      
+      <guid>https://kelvinlin.ca/tags/reviews/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>double degree</title>
@@ -17,15 +44,6 @@
       <pubDate>Thu, 06 Jun 2019 23:04:27 -0400</pubDate>
       
       <guid>https://kelvinlin.ca/tags/double-degree/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mcmaster</title>
-      <link>https://kelvinlin.ca/tags/mcmaster/</link>
-      <pubDate>Thu, 06 Jun 2019 23:04:27 -0400</pubDate>
-      
-      <guid>https://kelvinlin.ca/tags/mcmaster/</guid>
       <description></description>
     </item>
     
