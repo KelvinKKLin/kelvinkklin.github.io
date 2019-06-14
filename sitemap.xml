@@ -38,25 +38,25 @@
   </url>
   
   <url>
-    <loc>https://kelvinlin.ca/categories/double-degree/</loc>
-    <lastmod>2019-06-13T11:06:28-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kelvinlin.ca/tags/double-degree/</loc>
     <lastmod>2019-06-13T11:06:28-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kelvinlin.ca/categories/mcmaster/</loc>
+    <loc>https://kelvinlin.ca/categories/double-degree/</loc>
     <lastmod>2019-06-13T11:06:28-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kelvinlin.ca/tags/mcmaster/</loc>
+    <lastmod>2019-06-13T11:06:28-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinlin.ca/categories/mcmaster/</loc>
     <lastmod>2019-06-13T11:06:28-04:00</lastmod>
     <priority>0</priority>
   </url>
