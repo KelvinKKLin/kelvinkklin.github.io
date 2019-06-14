@@ -3,48 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kelvinlin.ca/blog/3-honest-thoughts-on-mcmasters-software-engineering-and-management-program/</loc>
-    <lastmod>2019-06-10T23:10:01-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kelvinlin.ca/blog/</loc>
-    <lastmod>2019-06-10T23:10:01-04:00</lastmod>
+    <lastmod>2019-06-13T11:06:28-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kelvinlin.ca/categories/</loc>
-    <lastmod>2019-06-10T23:10:01-04:00</lastmod>
+    <lastmod>2019-06-13T11:06:28-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinlin.ca/blog/how-to-enroll-in-courses-part-1/</loc>
+    <lastmod>2019-06-13T11:06:28-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://kelvinlin.ca/</loc>
-    <lastmod>2019-06-10T23:10:01-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinlin.ca/tags/sem/</loc>
-    <lastmod>2019-06-10T23:10:01-04:00</lastmod>
+    <lastmod>2019-06-13T11:06:28-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kelvinlin.ca/tags/</loc>
-    <lastmod>2019-06-10T23:10:01-04:00</lastmod>
+    <lastmod>2019-06-13T11:06:28-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kelvinlin.ca/categories/mcmaster/</loc>
-    <lastmod>2019-06-10T23:10:01-04:00</lastmod>
+    <loc>https://kelvinlin.ca/categories/courses/</loc>
+    <lastmod>2019-06-13T11:06:28-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinlin.ca/tags/double-degree/</loc>
+    <lastmod>2019-06-13T11:06:28-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinlin.ca/categories/double-degree/</loc>
+    <lastmod>2019-06-13T11:06:28-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kelvinlin.ca/tags/mcmaster/</loc>
+    <lastmod>2019-06-13T11:06:28-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinlin.ca/categories/mcmaster/</loc>
+    <lastmod>2019-06-13T11:06:28-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinlin.ca/categories/school/</loc>
+    <lastmod>2019-06-13T11:06:28-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinlin.ca/blog/3-honest-thoughts-on-mcmasters-software-engineering-and-management-program/</loc>
+    <lastmod>2019-06-10T23:10:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kelvinlin.ca/tags/sem/</loc>
     <lastmod>2019-06-10T23:10:01-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -56,26 +85,8 @@
   </url>
   
   <url>
-    <loc>https://kelvinlin.ca/categories/school/</loc>
-    <lastmod>2019-06-10T23:10:01-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kelvinlin.ca/blog/how-to-create-a-master-plan-for-your-double-degree/</loc>
     <lastmod>2019-06-06T23:04:27-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kelvinlin.ca/categories/double-degree/</loc>
-    <lastmod>2019-06-06T23:04:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kelvinlin.ca/tags/double-degree/</loc>
-    <lastmod>2019-06-06T23:04:27-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
