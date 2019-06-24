@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Kelvin Lin © 2019</copyright>
-    <lastBuildDate>Mon, 17 Jun 2019 22:19:18 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2019 10:38:06 -0400</lastBuildDate>
     
 	<atom:link href="https://kelvinlin.ca/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>mcmaster</title>
+      <link>https://kelvinlin.ca/categories/mcmaster/</link>
+      <pubDate>Mon, 24 Jun 2019 10:38:06 -0400</pubDate>
+      
+      <guid>https://kelvinlin.ca/categories/mcmaster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school</title>
+      <link>https://kelvinlin.ca/categories/school/</link>
+      <pubDate>Mon, 24 Jun 2019 10:38:06 -0400</pubDate>
+      
+      <guid>https://kelvinlin.ca/categories/school/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>courses</title>
@@ -27,24 +45,6 @@
       <pubDate>Mon, 17 Jun 2019 22:19:18 -0400</pubDate>
       
       <guid>https://kelvinlin.ca/categories/double-degree/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mcmaster</title>
-      <link>https://kelvinlin.ca/categories/mcmaster/</link>
-      <pubDate>Mon, 17 Jun 2019 22:19:18 -0400</pubDate>
-      
-      <guid>https://kelvinlin.ca/categories/mcmaster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>school</title>
-      <link>https://kelvinlin.ca/categories/school/</link>
-      <pubDate>Mon, 17 Jun 2019 22:19:18 -0400</pubDate>
-      
-      <guid>https://kelvinlin.ca/categories/school/</guid>
       <description></description>
     </item>
     
