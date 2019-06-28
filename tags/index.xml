@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Kelvin Lin © 2019</copyright>
-    <lastBuildDate>Tue, 25 Jun 2019 22:48:01 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2019 11:02:48 -0400</lastBuildDate>
     
 	<atom:link href="https://kelvinlin.ca/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>double degree</title>
+      <link>https://kelvinlin.ca/tags/double-degree/</link>
+      <pubDate>Fri, 28 Jun 2019 11:02:48 -0400</pubDate>
+      
+      <guid>https://kelvinlin.ca/tags/double-degree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>extracurricular</title>
+      <link>https://kelvinlin.ca/tags/extracurricular/</link>
+      <pubDate>Fri, 28 Jun 2019 11:02:48 -0400</pubDate>
+      
+      <guid>https://kelvinlin.ca/tags/extracurricular/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CS</title>
@@ -54,15 +72,6 @@
       <pubDate>Mon, 24 Jun 2019 10:38:06 -0400</pubDate>
       
       <guid>https://kelvinlin.ca/tags/co-op/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>double degree</title>
-      <link>https://kelvinlin.ca/tags/double-degree/</link>
-      <pubDate>Mon, 17 Jun 2019 22:19:18 -0400</pubDate>
-      
-      <guid>https://kelvinlin.ca/tags/double-degree/</guid>
       <description></description>
     </item>
     
