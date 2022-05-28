@@ -1,42 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>courses on Kelvin Lin</title>
-    <link>https://kelvinlin.ca/categories/courses/</link>
+    <link>https://kelvinlin.com/categories/courses/</link>
     <description>Recent content in courses on Kelvin Lin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Kelvin Lin © 2019</copyright>
-    <lastBuildDate>Tue, 25 Jun 2019 22:48:01 -0400</lastBuildDate>
-    
-	<atom:link href="https://kelvinlin.ca/categories/courses/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Kelvin Lin © 2022</copyright>
+    <lastBuildDate>Tue, 25 Jun 2019 22:48:01 -0400</lastBuildDate><atom:link href="https://kelvinlin.com/categories/courses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COMPSCI 4ML3: An Honest Review</title>
-      <link>https://kelvinlin.ca/blog/compsci-4ml3-review/</link>
+      <link>https://kelvinlin.com/blog/compsci-4ml3-review/</link>
       <pubDate>Tue, 25 Jun 2019 22:48:01 -0400</pubDate>
       
-      <guid>https://kelvinlin.ca/blog/compsci-4ml3-review/</guid>
+      <guid>https://kelvinlin.com/blog/compsci-4ml3-review/</guid>
       <description>I recently completed McMaster&amp;rsquo;s inaugural offering of COMPSCI 4ML3: Introduction to Machine Learning taught by Dr. Hassan Ashtiani. Motivated by my enthusiasm for machine learning as well as lack of reviews of this course, I wanted to write a quick blog post to describe my experience in this course for students who are looking to take this course in the future.
 An example of an artificial neural network, one of the algorithms discussed in COMPSCI 4ML3.</description>
     </item>
     
     <item>
       <title>How to Enroll in Courses at McMaster University: Part 2</title>
-      <link>https://kelvinlin.ca/blog/how-to-enroll-in-courses-part-2/</link>
+      <link>https://kelvinlin.com/blog/how-to-enroll-in-courses-part-2/</link>
       <pubDate>Mon, 17 Jun 2019 22:19:18 -0400</pubDate>
       
-      <guid>https://kelvinlin.ca/blog/how-to-enroll-in-courses-part-2/</guid>
+      <guid>https://kelvinlin.com/blog/how-to-enroll-in-courses-part-2/</guid>
       <description>Sometimes, it is difficult if not impossible to create your perfect timetable using McMaster&amp;rsquo;s My Timetable tool. Perhaps you need to overload to graduate with your double degree on time. Or maybe you need to take a course that you are missing prerequisites for. Regardless of the reason, if you find McMaster&amp;rsquo;s My Timetable tool unsatisfactory, then you can manually create your own timetable using the 5 steps I will describe in this blog post.</description>
     </item>
     
     <item>
       <title>How to Enroll in Courses at McMaster University: Part 1</title>
-      <link>https://kelvinlin.ca/blog/how-to-enroll-in-courses-part-1/</link>
+      <link>https://kelvinlin.com/blog/how-to-enroll-in-courses-part-1/</link>
       <pubDate>Thu, 13 Jun 2019 11:06:28 -0400</pubDate>
       
-      <guid>https://kelvinlin.ca/blog/how-to-enroll-in-courses-part-1/</guid>
+      <guid>https://kelvinlin.com/blog/how-to-enroll-in-courses-part-1/</guid>
       <description>Now that you know what courses you need to graduate with a double degree, it is time to start planning out your next semester. Over the next 2 blog posts, I will introduce 2 different ways for you to plan your timetable so that it fits your needs. In this first short blog post, I will introduce the McMaster My Timetable tool that will automatically generate timetables for you to choose from given a list of courses.</description>
     </item>
     

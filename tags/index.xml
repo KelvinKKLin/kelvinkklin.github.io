@@ -1,86 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kelvin Lin</title>
-    <link>https://kelvinlin.ca/tags/</link>
+    <link>https://kelvinlin.com/tags/</link>
     <description>Recent content in Tags on Kelvin Lin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Kelvin Lin © 2019</copyright>
-    <lastBuildDate>Fri, 12 Jul 2019 10:42:03 -0400</lastBuildDate>
-    
-	<atom:link href="https://kelvinlin.ca/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Kelvin Lin © 2022</copyright>
+    <lastBuildDate>Fri, 12 Jul 2019 10:42:03 -0400</lastBuildDate><atom:link href="https://kelvinlin.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>mcmaster</title>
-      <link>https://kelvinlin.ca/tags/mcmaster/</link>
+      <link>https://kelvinlin.com/tags/mcmaster/</link>
       <pubDate>Fri, 12 Jul 2019 10:42:03 -0400</pubDate>
       
-      <guid>https://kelvinlin.ca/tags/mcmaster/</guid>
+      <guid>https://kelvinlin.com/tags/mcmaster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>double degree</title>
-      <link>https://kelvinlin.ca/tags/double-degree/</link>
+      <link>https://kelvinlin.com/tags/double-degree/</link>
       <pubDate>Fri, 28 Jun 2019 11:02:48 -0400</pubDate>
       
-      <guid>https://kelvinlin.ca/tags/double-degree/</guid>
+      <guid>https://kelvinlin.com/tags/double-degree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>extracurricular</title>
-      <link>https://kelvinlin.ca/tags/extracurricular/</link>
+      <link>https://kelvinlin.com/tags/extracurricular/</link>
       <pubDate>Fri, 28 Jun 2019 11:02:48 -0400</pubDate>
       
-      <guid>https://kelvinlin.ca/tags/extracurricular/</guid>
+      <guid>https://kelvinlin.com/tags/extracurricular/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CS</title>
-      <link>https://kelvinlin.ca/tags/cs/</link>
+      <link>https://kelvinlin.com/tags/cs/</link>
       <pubDate>Tue, 25 Jun 2019 22:48:01 -0400</pubDate>
       
-      <guid>https://kelvinlin.ca/tags/cs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SE&amp;M</title>
-      <link>https://kelvinlin.ca/tags/sem/</link>
-      <pubDate>Tue, 25 Jun 2019 22:48:01 -0400</pubDate>
-      
-      <guid>https://kelvinlin.ca/tags/sem/</guid>
+      <guid>https://kelvinlin.com/tags/cs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reviews</title>
-      <link>https://kelvinlin.ca/tags/reviews/</link>
+      <link>https://kelvinlin.com/tags/reviews/</link>
       <pubDate>Tue, 25 Jun 2019 22:48:01 -0400</pubDate>
       
-      <guid>https://kelvinlin.ca/tags/reviews/</guid>
+      <guid>https://kelvinlin.com/tags/reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SE&amp;M</title>
+      <link>https://kelvinlin.com/tags/sem/</link>
+      <pubDate>Tue, 25 Jun 2019 22:48:01 -0400</pubDate>
+      
+      <guid>https://kelvinlin.com/tags/sem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>co-op</title>
-      <link>https://kelvinlin.ca/tags/co-op/</link>
+      <link>https://kelvinlin.com/tags/co-op/</link>
       <pubDate>Mon, 24 Jun 2019 10:38:06 -0400</pubDate>
       
-      <guid>https://kelvinlin.ca/tags/co-op/</guid>
+      <guid>https://kelvinlin.com/tags/co-op/</guid>
       <description></description>
     </item>
     
     <item>
       <title>major</title>
-      <link>https://kelvinlin.ca/tags/major/</link>
+      <link>https://kelvinlin.com/tags/major/</link>
       <pubDate>Mon, 27 May 2019 21:48:11 -0400</pubDate>
       
-      <guid>https://kelvinlin.ca/tags/major/</guid>
+      <guid>https://kelvinlin.com/tags/major/</guid>
       <description></description>
     </item>
     
