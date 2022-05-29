@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CS on Kelvin Lin</title>
-    <link>https://kelvinlin.com/tags/cs/</link>
+    <link>http://kelvinlin.com/tags/cs/</link>
     <description>Recent content in CS on Kelvin Lin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Kelvin Lin © 2022</copyright>
-    <lastBuildDate>Tue, 25 Jun 2019 22:48:01 -0400</lastBuildDate><atom:link href="https://kelvinlin.com/tags/cs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jun 2019 22:48:01 -0400</lastBuildDate><atom:link href="http://kelvinlin.com/tags/cs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COMPSCI 4ML3: An Honest Review</title>
-      <link>https://kelvinlin.com/blog/compsci-4ml3-review/</link>
+      <link>http://kelvinlin.com/blog/compsci-4ml3-review/</link>
       <pubDate>Tue, 25 Jun 2019 22:48:01 -0400</pubDate>
       
-      <guid>https://kelvinlin.com/blog/compsci-4ml3-review/</guid>
+      <guid>http://kelvinlin.com/blog/compsci-4ml3-review/</guid>
       <description>I recently completed McMaster&amp;rsquo;s inaugural offering of COMPSCI 4ML3: Introduction to Machine Learning taught by Dr. Hassan Ashtiani. Motivated by my enthusiasm for machine learning as well as lack of reviews of this course, I wanted to write a quick blog post to describe my experience in this course for students who are looking to take this course in the future.
 An example of an artificial neural network, one of the algorithms discussed in COMPSCI 4ML3.</description>
     </item>
