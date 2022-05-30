@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kelvin Lin</title>
-    <link>http://kelvinlin.com/categories/</link>
+    <link>https://kelvinlin.com/categories/</link>
     <description>Recent content in Categories on Kelvin Lin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Kelvin Lin © 2022</copyright>
-    <lastBuildDate>Fri, 12 Jul 2019 10:42:03 -0400</lastBuildDate><atom:link href="http://kelvinlin.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Jul 2019 10:42:03 -0400</lastBuildDate><atom:link href="https://kelvinlin.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>mcmaster</title>
-      <link>http://kelvinlin.com/categories/mcmaster/</link>
+      <link>https://kelvinlin.com/categories/mcmaster/</link>
       <pubDate>Fri, 12 Jul 2019 10:42:03 -0400</pubDate>
       
-      <guid>http://kelvinlin.com/categories/mcmaster/</guid>
+      <guid>https://kelvinlin.com/categories/mcmaster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>school</title>
-      <link>http://kelvinlin.com/categories/school/</link>
+      <link>https://kelvinlin.com/categories/school/</link>
       <pubDate>Fri, 12 Jul 2019 10:42:03 -0400</pubDate>
       
-      <guid>http://kelvinlin.com/categories/school/</guid>
+      <guid>https://kelvinlin.com/categories/school/</guid>
       <description></description>
     </item>
     
     <item>
       <title>double degree</title>
-      <link>http://kelvinlin.com/categories/double-degree/</link>
+      <link>https://kelvinlin.com/categories/double-degree/</link>
       <pubDate>Fri, 28 Jun 2019 11:02:48 -0400</pubDate>
       
-      <guid>http://kelvinlin.com/categories/double-degree/</guid>
+      <guid>https://kelvinlin.com/categories/double-degree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>courses</title>
-      <link>http://kelvinlin.com/categories/courses/</link>
+      <link>https://kelvinlin.com/categories/courses/</link>
       <pubDate>Tue, 25 Jun 2019 22:48:01 -0400</pubDate>
       
-      <guid>http://kelvinlin.com/categories/courses/</guid>
+      <guid>https://kelvinlin.com/categories/courses/</guid>
       <description></description>
     </item>
     
