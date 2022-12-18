@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hobby on Kelvin Lin</title>
+    <link>https://kelvinlin.com/hobby/</link>
+    <description>Recent content in Hobby on Kelvin Lin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Kelvin Lin © 2022</copyright>
+    <lastBuildDate>Sun, 18 Dec 2022 08:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kelvinlin.com/hobby/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>100 Days of HAM</title>
+      <link>https://kelvinlin.com/hobby/100daysofham/</link>
+      <pubDate>Sun, 18 Dec 2022 08:30:00 +0000</pubDate>
+      
+      <guid>https://kelvinlin.com/hobby/100daysofham/</guid>
+      <description>This page tracks my progress for the 100 days of HAM challenge.
+Between December 18th, 2022 and March 28th, 2023, I will spend 1 hour everyday to learn about HAM radio. I will work towards preparing for the Amateur Radio Service licensing exams, and learning how to operate a radio. I am doing this because I am interested in communication technologies, and I think radio is a cool alternative to the internet.</description>
+    </item>
+    
+  </channel>
+</rss>

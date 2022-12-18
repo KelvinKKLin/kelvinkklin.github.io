@@ -1,0 +1,7 @@
+.btn-100days{
+    background-color: #6bb57b;
+}
+
+.btn-100days:disabled{
+    background-color: transparent;
+}
