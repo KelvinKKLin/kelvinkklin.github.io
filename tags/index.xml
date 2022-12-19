@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kelvin Lin</title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Kelvin Lin © 2022</copyright>
-    <lastBuildDate>Fri, 12 Jul 2019 10:42:03 -0400</lastBuildDate>
-    
-	<atom:link href="https://kelvinlin.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 12 Jul 2019 10:42:03 -0400</lastBuildDate><atom:link href="https://kelvinlin.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>mcmaster</title>
       <link>https://kelvinlin.com/tags/mcmaster/</link>
@@ -49,20 +45,20 @@
     </item>
     
     <item>
-      <title>SE&amp;M</title>
-      <link>https://kelvinlin.com/tags/sem/</link>
-      <pubDate>Tue, 25 Jun 2019 22:48:01 -0400</pubDate>
-      
-      <guid>https://kelvinlin.com/tags/sem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>reviews</title>
       <link>https://kelvinlin.com/tags/reviews/</link>
       <pubDate>Tue, 25 Jun 2019 22:48:01 -0400</pubDate>
       
       <guid>https://kelvinlin.com/tags/reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SE&amp;M</title>
+      <link>https://kelvinlin.com/tags/sem/</link>
+      <pubDate>Tue, 25 Jun 2019 22:48:01 -0400</pubDate>
+      
+      <guid>https://kelvinlin.com/tags/sem/</guid>
       <description></description>
     </item>
     

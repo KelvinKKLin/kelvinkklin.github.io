@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>double degree on Kelvin Lin</title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Kelvin Lin © 2022</copyright>
-    <lastBuildDate>Fri, 28 Jun 2019 11:02:48 -0400</lastBuildDate>
-    
-	<atom:link href="https://kelvinlin.com/categories/double-degree/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 28 Jun 2019 11:02:48 -0400</lastBuildDate><atom:link href="https://kelvinlin.com/categories/double-degree/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Participate in Extracurricular Activities</title>
       <link>https://kelvinlin.com/blog/how-to-participate-in-extracurricular-activities/</link>
