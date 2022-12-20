@@ -1,7 +1,26 @@
 .btn-100days{
-    background-color: #6bb57b;
+    background-color: lightgreen;
+    border-style: solid;
+    border-color: gainsboro;
 }
 
 .btn-100days:disabled{
     background-color: transparent;
+    border-style: none;
+}
+
+.modal-header{
+    background-color: #A3A1A1;
+}
+
+.modal-title{
+    color: #FAFAFA;
+}
+
+.close{
+    color: #FAFAFA;
+}
+
+.close:hover{
+    color: white;
 }
