@@ -1,7 +1,13 @@
 .btn-100days{
     background-color: lightgreen;
+    border-radius: 25px !important;
     border-style: solid;
     border-color: gainsboro;
+    margin: 5px !important;
+}
+
+.btn-100days:hover{
+    background-color: #90ff90;
 }
 
 .btn-100days:disabled{
