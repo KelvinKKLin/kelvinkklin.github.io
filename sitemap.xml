@@ -1,112 +1,202 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://kelvinlin.com/hobby/100daysofham/</loc>
     <lastmod>2022-12-18T08:30:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/hobby/</loc>
     <lastmod>2022-12-18T08:30:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/</loc>
     <lastmod>2022-12-18T08:30:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/blog/</loc>
     <lastmod>2019-07-12T10:42:03-04:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/categories/</loc>
     <lastmod>2019-07-12T10:42:03-04:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/blog/how-to-graduate-from-mcmaster-university/</loc>
     <lastmod>2019-07-12T10:42:03-04:00</lastmod>
-  </url><url>
-    <loc>https://kelvinlin.com/tags/mcmaster/</loc>
-    <lastmod>2019-07-12T10:42:03-04:00</lastmod>
-  </url><url>
-    <loc>https://kelvinlin.com/categories/mcmaster/</loc>
-    <lastmod>2019-07-12T10:42:03-04:00</lastmod>
-  </url><url>
-    <loc>https://kelvinlin.com/categories/school/</loc>
-    <lastmod>2019-07-12T10:42:03-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/tags/</loc>
     <lastmod>2019-07-12T10:42:03-04:00</lastmod>
-  </url><url>
-    <loc>https://kelvinlin.com/tags/double-degree/</loc>
-    <lastmod>2019-06-28T11:02:48-04:00</lastmod>
-  </url><url>
-    <loc>https://kelvinlin.com/categories/double-degree/</loc>
-    <lastmod>2019-06-28T11:02:48-04:00</lastmod>
-  </url><url>
-    <loc>https://kelvinlin.com/tags/extracurricular/</loc>
-    <lastmod>2019-06-28T11:02:48-04:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinlin.com/categories/mcmaster/</loc>
+    <lastmod>2019-07-12T10:42:03-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinlin.com/tags/mcmaster/</loc>
+    <lastmod>2019-07-12T10:42:03-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinlin.com/categories/school/</loc>
+    <lastmod>2019-07-12T10:42:03-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/blog/how-to-participate-in-extracurricular-activities/</loc>
     <lastmod>2019-06-28T11:02:48-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://kelvinlin.com/categories/double-degree/</loc>
+    <lastmod>2019-06-28T11:02:48-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinlin.com/tags/double-degree/</loc>
+    <lastmod>2019-06-28T11:02:48-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinlin.com/tags/extracurricular/</loc>
+    <lastmod>2019-06-28T11:02:48-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/blog/compsci-4ml3-review/</loc>
     <lastmod>2019-06-25T22:48:01-04:00</lastmod>
-  </url><url>
-    <loc>https://kelvinlin.com/categories/courses/</loc>
-    <lastmod>2019-06-25T22:48:01-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/tags/cs/</loc>
     <lastmod>2019-06-25T22:48:01-04:00</lastmod>
-  </url><url>
-    <loc>https://kelvinlin.com/tags/reviews/</loc>
-    <lastmod>2019-06-25T22:48:01-04:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/tags/sem/</loc>
     <lastmod>2019-06-25T22:48:01-04:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinlin.com/categories/courses/</loc>
+    <lastmod>2019-06-25T22:48:01-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvinlin.com/tags/reviews/</loc>
+    <lastmod>2019-06-25T22:48:01-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/blog/3-honest-thoughts-on-mcmasters-coop-program/</loc>
     <lastmod>2019-06-24T10:38:06-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/tags/co-op/</loc>
     <lastmod>2019-06-24T10:38:06-04:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/blog/how-to-enroll-in-courses-part-2/</loc>
     <lastmod>2019-06-17T22:19:18-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/blog/how-to-enroll-in-courses-part-1/</loc>
     <lastmod>2019-06-13T11:06:28-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/blog/3-honest-thoughts-on-mcmasters-software-engineering-and-management-program/</loc>
     <lastmod>2019-06-10T23:10:01-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/blog/how-to-create-a-master-plan-for-your-double-degree/</loc>
     <lastmod>2019-06-06T23:04:27-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/blog/how-to-talk-to-your-academic-advisors-about-your-double-degree/</loc>
     <lastmod>2019-06-04T22:34:21-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/blog/how-to-choose-your-double-degree-majors/</loc>
     <lastmod>2019-05-27T21:48:11-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/tags/major/</loc>
     <lastmod>2019-05-27T21:48:11-04:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/blog/how-to-get-a-double-degree-at-mcmaster-university/</loc>
     <lastmod>2019-05-23T18:43:27-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/contact/</loc>
     <lastmod>2019-05-18T16:25:08-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/privacy/</loc>
     <lastmod>2019-05-18T16:25:08-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/courses/</loc>
     <lastmod>2019-05-09T17:23:10-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/awards/</loc>
     <lastmod>2019-05-05T16:23:21-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/projects/</loc>
     <lastmod>2019-05-04T18:15:48-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://kelvinlin.com/about/</loc>
     <lastmod>2019-05-04T14:44:08-04:00</lastmod>
-  </url><url>
-    <loc>https://kelvinlin.com/series/</loc>
   </url>
+  
+  <url>
+    <loc>https://kelvinlin.com/series/</loc>
+    <priority>0</priority>
+  </url>
+  
 </urlset>
