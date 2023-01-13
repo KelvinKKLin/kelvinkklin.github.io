@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kelvin Lin</title>
@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Kelvin Lin © 2022</copyright>
-    <lastBuildDate>Sun, 18 Dec 2022 08:30:00 +0000</lastBuildDate><atom:link href="https://kelvinlin.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 08:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kelvinlin.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>100 Days of HAM</title>
       <link>https://kelvinlin.com/hobby/100daysofham/</link>
@@ -53,7 +57,7 @@ An example of an artificial neural network, one of the algorithms discussed in C
       
       <guid>https://kelvinlin.com/blog/3-honest-thoughts-on-mcmasters-coop-program/</guid>
       <description>The Engineering Co-op and Internship program at McMaster University provides an amazing opportunity for students to test drive potential careers, apply skills learned in class to real-world problems, and to build their professional network. Having recently completed McMaster&amp;rsquo;s Engineering Co-op program, I would like to share 3 pieces of advice I have to help you land your dream co-op placement.
-OscarPlus - McMaster Engineering&#39;s Co-op Portal: https://oscarplusmcmaster.ca.
+OscarPlus - McMaster Engineering&amp;rsquo;s Co-op Portal: https://oscarplusmcmaster.ca.
 Note that I am not an academic advisor, nor do I hold/have held any positions at McMaster that would qualify me to provide professional academic advice on behalf of the university.</description>
     </item>
     
@@ -130,8 +134,10 @@ Having recently graduated with concurrent double degrees in Software Engineering
       <pubDate>Sat, 18 May 2019 16:25:08 -0400</pubDate>
       
       <guid>https://kelvinlin.com/contact/</guid>
-      <description>Want to contact me? Email me at kelvinlin (at) gatech.edu, send me a message on LinkedIn, or fill out the form below, and I&amp;rsquo;ll get back to you as soon as I can.
-Please do not contact me with unsolicited services or marketing. I do not host guest articles on my blog. I do not provide tutoring services or academic counselling.</description>
+      <description>  
+Want to contact me? Email me at kelvinlin (at) gatech.edu, send me a message on LinkedIn, or fill out the form below, and I&amp;rsquo;ll get back to you as soon as I can.
+Please do not contact me with unsolicited services or marketing. I do not host guest articles on my blog. I do not provide tutoring services or academic counselling.
+Loading... </description>
     </item>
     
     <item>
@@ -151,7 +157,8 @@ I only ask for personal information when we truly need it to provide a service t
       
       <guid>https://kelvinlin.com/courses/</guid>
       <description>Georgia Institute of Technology (Georgia Tech) The following is a list of courses that I took at the Georgia Tech.
-Computer Science (11 courses)Course CodeCourse NameCS 6250Computer NetworksCS 6515Introduction to Graduate AlgorithmsCS 6601Artificial IntelligenceCS 6603AI, Ethics, and SocietyCS 7632Game AICS 7638Robotics: AI TechniquesCS 7641Machine LearningCS 7643Deep LearningCS 7646Machine Learning for TradingCS 8801Artificial Intelligence Reading GroupCS 8801Research SeminarIndustrial &amp; Systems Engineering (1 course)Course CodeCourse NameISYE 6420Bayesian StatisticsMcMaster University The following is a list of courses that I took at McMaster University.</description>
+  
+Computer Science (11 courses)   Course Code Course Name     CS 6250 Computer Networks   CS 6515 Introduction to Graduate Algorithms   CS 6601 Artificial Intelligence   CS 6603 AI, Ethics, and Society   CS 7632 Game AI   CS 7638 Robotics: AI Techniques   CS 7641 Machine Learning   CS 7643 Deep Learning   CS 7646 Machine Learning for Trading   CS 8801 Artificial Intelligence Reading Group   CS 8801 Research Seminar      Industrial &amp; Systems Engineering (1 course)   Course Code Course Name     ISYE 6420 Bayesian Statistics</description>
     </item>
     
     <item>
@@ -161,7 +168,7 @@ I only ask for personal information when we truly need it to provide a service t
       
       <guid>https://kelvinlin.com/awards/</guid>
       <description>Here are a selection of awards and certificates that I&amp;rsquo;ve received from work, school, and participating in programming and engineering competitions.
-MOOCs (3 certificates)Artificial Intelligence NanodegreeSchool: UdacityMy AI nanodegree covered probabilistic AI, game-playing agents, search algorithms, neural networks, deep learning, and a specialization in NLP. The syllabus for this nanodegree can be found here.M101J: MongoDB for Java DevelopersSchool: MongoDB UniversityM101J covered topics such as no-SQL databases, MongoDB&#39;s document model and basic schema design, MongoDB CRUD operations, and how to read and write to a MongoDB database using Java.</description>
+MOOCs (3 certificates) Artificial Intelligence Nanodegree    School: Udacity My AI nanodegree covered probabilistic AI, game-playing agents, search algorithms, neural networks, deep learning, and a specialization in NLP. The syllabus for this nanodegree can be found here.    M101J: MongoDB for Java Developers    School: MongoDB University M101J covered topics such as no-SQL databases, MongoDB&#39;s document model and basic schema design, MongoDB CRUD operations, and how to read and write to a MongoDB database using Java.</description>
     </item>
     
     <item>
@@ -170,8 +177,8 @@ MOOCs (3 certificates)Artificial Intelligence NanodegreeSchool: UdacityMy 
       <pubDate>Sat, 04 May 2019 18:15:48 -0400</pubDate>
       
       <guid>https://kelvinlin.com/projects/</guid>
-      <description>Here are some projects that I am proud to have worked on. Other projects can be found on my Github at: https://github.com/KelvinKKLin.
-Project ImacsA non-linear text editor/file visualization tool created for my Software Engineering capstone at McMaster University - Recieved A+. Technologies Used: HTML/CSS, TypeScript, Electron, D3, Hyperapp Parallel N-Body SimulatorA n-particle physics simulator that models the interaction between up to 32,000 particles in empty space - Received A+.</description>
+      <description>Here are some projects that I am proud to have worked on. Other projects can be found on my Github at: https://github.com/KelvinKKLin. Project Imacs    A non-linear text editor/file visualization tool created for my Software Engineering capstone at McMaster University - Recieved A+.
+Technologies Used: HTML/CSS, TypeScript, Electron, D3, Hyperapp    Parallel N-Body Simulator    A n-particle physics simulator that models the interaction between up to 32,000 particles in empty space - Received A+.</description>
     </item>
     
     <item>
@@ -181,8 +188,8 @@ Project ImacsA non-linear text editor/file visualization tool created for my
       
       <guid>https://kelvinlin.com/about/</guid>
       <description>Hello world, I&amp;rsquo;m Kelvin - a recent Master of Science in Computer Science graduate from Georgia Tech. I LOVE engineering impactful software systems that make the world a better place while empowering others to do the same. More details about my work experiences and qualifications can be found on LinkedIn at https://linkedin.com/in/kelvin-lin. 
-Education See Courses    Master of Science in Computer Science (Specialization in Machine Learning)
-GPA: 4.</description>
+Education See Courses  Master of Science in Computer Science (Specialization in Machine Learning)
+GPA: 4.0/4.0 ; simultaneously completed the requirements for a specialization in Interactive Intelligence.</description>
     </item>
     
   </channel>
