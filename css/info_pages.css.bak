@@ -13,7 +13,7 @@ b{
     margin-bottom: 1.3em;
 }
 .tile{
-    height: 13em;
+    height: 1300em;
     margin-bottom: 0.5em;
     border: 0.07em solid #212121;
 }

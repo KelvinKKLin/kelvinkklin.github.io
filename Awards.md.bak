@@ -1,0 +1,184 @@
+---
+title: "Awards and Certificates"
+date: 2019-05-05T16:23:21-04:00
+description: Here are a selection of awards and certificates that I've received from work, Organization, and participating in programming and engineering competitions - Professional-Development (3 certificates), Programming and Engineering Competition Awards (5 certificates), Professional Awards (1 certificate).
+keyword: awards, certificates
+draft: false
+---
+
+<!-- CSS Stylesheets -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/css/info_pages.css">
+
+Here are a selection of awards and certificates that I've received from work, Organization, and participating in programming and engineering competitions.
+
+<!-- Professional-Development -->
+<div><a class="dropdown-text" data-toggle="collapse" href="#Professional-Development" role="button" aria-expanded="false" aria-controls="Professional-Development"><h2><i class="fas fa-plus-circle"></i><i class="fas fa-minus-circle"></i>Professional Development (4 certificates)</h2><hr></a></div>
+<div class="row project_container collapse" id="Professional-Development">
+	<!-- Certified ScrumMaster -->
+    <div class="project col-sm-6 col-md-6 col-lg-4 text-center">
+        <div class="front_face">
+            <div class="icon">
+                <div class="col">
+                    <h2><a href="https://bcert.me/stpxkzmjk" target="_blank">Certified ScrumMaster (CSM)</h2>
+                    <img class="tile no-border" src="/images/professional-development/seal-csm.png" alt="Scrum Alliance Certified ScrumMaster (CSM) Certification"></a>
+                </div>
+            </div>
+            <div class="summary">
+                <b>Organization:</b> Scrum Alliance<br/>
+                My CSM certification encompassed knowledge of Scrum methodologies, Agile principles, effective team facilitation, and the ability to promote a culture of collaboration and continuous improvement in projects and organizations. It validates my expertise in implementing Scrum practices and driving successful Agile transformations.
+            </div>
+        </div>
+    </div>
+    <!-- Udacity AI Nanodegree -->
+    <div class="project col-sm-6 col-md-6 col-lg-4 text-center">
+        <div class="front_face">
+            <div class="icon">
+                <div class="col">
+                    <h2><a href="https://confirm.udacity.com/4SCEFGVU" target="_blank">Artificial Intelligence Nanodegree</h2>
+                    <img class="tile" src="/images/professional-development/udacity-ai-nanodegree.jpg" alt="Kelvin Lin's Artificial Intelligence Nanodegree"></a>
+                </div>
+            </div>
+            <div class="summary">
+                <b>Organization:</b> Udacity<br/>
+                My AI nanodegree covered probabilistic AI, game-playing agents, search algorithms, neural networks, deep learning, and a specialization in NLP. The syllabus for this nanodegree can be found <a href="https://s3-us-west-2.amazonaws.com/udacity-printer/production/syllabus/syllabus-nd889-default-en-us.pdf" target="_blank">here</a>.
+            </div>
+        </div>
+    </div>
+    <!-- MongoDB University M101J: MongoDB for Java Developers  -->
+    <div class="project col-sm-6 col-md-6 col-lg-4 text-center">
+        <div class="front_face">
+            <div class="icon">
+                <div class="col">
+                    <h2><a href="http://university.mongodb.com/course_completion/c80038ba-123e-4738-a563-d15e30a8" target="_blank">M101J: MongoDB for Java Developers</h2>
+                    <img class="tile" src="/images/professional-development/mongodb-m101j.jpg" alt="Kelvin Lin's M101J Course Completion Confirmation"></a>
+                </div>
+            </div>
+            <div class="summary">
+                <b>Organization:</b> MongoDB University<br/>
+                M101J covered topics such as no-SQL databases, MongoDB's document model and basic schema design, MongoDB CRUD operations, and how to read and write to a MongoDB database using Java.
+            </div>
+        </div>
+    </div>
+    <!-- Stanford Lagunita Statistical Learning -->
+    <div class="project col-sm-6 col-md-6 col-lg-4 text-center">
+        <div class="front_face">
+            <div class="icon">
+                <div class="col">
+                    <h2><a href="https://prod-cert-bucket.s3.amazonaws.com/downloads/f710c6f72c7a41c2b19d1c92061f3ac3/Statement.pdf" target="_blank">Statistical Learning</h2>
+                    <img class="tile" src="/images/professional-development/stanford-statistical-learning.jpg" alt="Kelvin Lin's Stanford Lagunita's Statistical Learning Statement of Accomplishment with Distinction"></a>
+                </div>
+            </div>
+            <div class="summary">
+                <b>Organization:</b> Stanford Online | Lagunita<br/>
+                I learned about regression, LDA, cross-validation, model selection, regularization, bootstrapping, nonlinear models, splines, GAM, random forests, boosting, SVM, clustering, and PCA.
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Programming and Engineering Competitions Awards -->
+<div><a class="dropdown-text" data-toggle="collapse" href="#programming-competition-awards" role="button" aria-expanded="false" aria-controls="programmingCompetitionAwards"><h2><i class="fas fa-plus-circle"></i><i class="fas fa-minus-circle"></i>Programming and Engineering Competitions Awards (5 certificates)</h2><hr></a></div>
+<div class="row project_container collapse" id="programming-competition-awards">
+    <!-- MEC - Programming (October, 2017) -->
+    <div class="project col-sm-6 col-md-6 col-lg-4 text-center">
+        <div class="front_face">
+            <div class="icon">
+                <div class="col">
+                    <h2><a href="/images/awards/mec-2017.jpg" target="_blank">Third Place - McMaster Engineering Competition - Programming Division</h2>
+                    <img class="tile" src="/images/awards/mec-2017.jpg" alt="Kelvin Lin's 2017 McMaster Engineering Competition Third Place Certificate"></a>
+                </div>
+            </div>
+            <div class="summary">
+                <b>Awarded:</b> October, 2017<br/>
+                A full-day engineering competition to design a software system to design a software system to help Canadian farmers increase crop yields.
+            </div>
+        </div>
+    </div>
+    <!-- MEC - Programming (October 2016) -->
+    <div class="project col-sm-6 col-md-6 col-lg-4 text-center">
+        <div class="front_face">
+            <div class="icon">
+                <div class="col">
+                    <h2><a href="/images/awards/mec-2016.jpg" target="_blank">Third Place - McMaster Engineering Competition - Programming Division</h2>
+                    <img class="tile" src="/images/awards/mec-2016.jpg" alt="Kelvin Lin's 2016 McMaster Engineering Competition Third Place Certificate"></a>
+                </div>
+            </div>
+            <div class="summary">
+                <b>Awarded:</b> October, 2016<br/>
+                A full-day enigneering competition to design a software system to help increase the safety of sailors in dangerous weather conditions.
+            </div>
+        </div>
+    </div>
+    <!-- McMaster ACM-ICPC Qualifier (October 2016)  -->
+    <div class="project col-sm-6 col-md-6 col-lg-4 text-center">
+        <div class="front_face">
+            <div class="icon">
+                <div class="col">
+                    <h2><a href="/images/awards/icpc-qualifier-2016.jpg" target="_blank">Third Place - McMaster ACM-ICPC Qualifier</h2>
+                    <img class="tile" src="/images/awards/icpc-qualifier-2016.jpg" alt="Kelvin Lin's Third Place McMaster ACM-ICPC Qualifier Certificate"></a>
+                </div>
+            </div>
+            <div class="summary">
+                <b>Awarded:</b> October, 2016<br/>
+                A two-hour programming competition to determine the 3 teams to represent McMaster at the ACM-ICPC East Central NA Regional Contest.
+            </div>
+        </div>
+    </div>
+    <!-- EcoCAR3 Exemplary Report Award (October 2015) -->
+    <div class="project col-sm-6 col-md-6 col-lg-4 text-center">
+        <div class="front_face">
+            <div class="icon">
+                <div class="col">
+                    <h2><a href="/images/awards/ecocar3-report-award.jpg" target="_blank">Exemplary Report Award - McMaster EcoCAR3 Development Challenge</h2>
+                    <img class="tile" src="/images/awards/ecocar3-report-award.jpg" alt="Kelvin Lin's Stanford Lagunita's Statistical Learning Statement of Accomplishment with Distinction"></a>
+                </div>
+            </div>
+            <div class="summary">
+                <b>Awarded:</b> October, 2015<br/>
+                A 4-week engineering challenge where teams of 3 students build a fully autonomous robot to navigate a maze. Awarded for an exemplary submitted report for the robot's control system.
+            </div>
+        </div>
+    </div>
+    <!-- EcoCAR3 Innovation in Controls Award (October 2015) -->
+    <div class="project col-sm-6 col-md-6 col-lg-4 text-center">
+        <div class="front_face">
+            <div class="icon">
+                <div class="col">
+                    <h2><a href="/images/awards/ecocar3-innovation-award.jpg" target="_blank">Innovation in Controls Award - McMaster EcoCAR3 Development Challenge</h2>
+                    <img class="tile" src="/images/awards/ecocar3-innovation-award.jpg" alt="Kelvin Lin's Stanford Lagunita's Statistical Learning Statement of Accomplishment with Distinction"></a>
+                </div>
+            </div>
+            <div class="summary">
+                <b>Awarded:</b> October, 2015<br/>
+                A 4-week engineering challenge where teams of 3 students build a fully autonomous robot to navigate a maze. Awarded for designing an innovative control system for the robot.
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Professional Awards -->
+<div><a class="dropdown-text" id="pro-awards" data-toggle="collapse" href="#professional-awards" role="button" aria-expanded="false" aria-controls="professionalAwards"><h2><i class="fas fa-plus-circle"></i><i class="fas fa-minus-circle"></i>Professional Awards (1 certificate)</h2><hr></a></div>
+<div class="row project_container collapse" id="professional-awards">
+    <!-- Best Teaching Assistant -->
+    <div class="project col-sm-6 col-md-6 col-lg-4 text-center">
+        <div class="front_face">
+            <div class="icon">
+                <div class="col">
+                    <h2><a href="/images/awards/best-teaching-assistant-2017.jpg" target="_blank">Best Teaching Assistant Award</h2>
+                    <img class="tile" src="/images/awards/best-teaching-assistant-2017.jpg" alt="Kelvin Lin's Best Teaching Assistant Award"></a>
+                </div>
+            </div>
+            <div class="summary">
+                <b>Awarded:</b> April, 2017<br/>
+                A nomination-based award from computing and software students for a teaching assistant who is dedicated to consistently providing high-quality educational content.
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- JavaScript -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="/scripts/open_awards.js"></script>
