@@ -7,38 +7,38 @@
     <meta name="author" content="Kelvin Lin">
 
     
-      <meta name="description" content="Kelvin Lin, M.S. in Computer Science (Georgia Tech), P.Eng (Ontario), CISSP, PMP | B.Eng.Mgt. in Software Engineering and Management Co-op (McMaster), B.A. in Economics (McMaster)">
+      <meta name="description" content="Kelvin Lin | M.S. in Computer Science (Georgia Tech), P.Eng, CISSP, PMP">
     
 
     
-      <meta name="keywords" content="Kelvin Lin, Software Engineer, Microsoft, Georgia Tech, McMaster, Computer Science, CISSP, PMP">
+      <meta name="keywords" content="Kelvin Lin, Software Engineer, Microsoft, CISSP, PMP">
     
 
     <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://kelvinlin.com/images/kelvin_lin.jpg"/>
 
-<meta name="twitter:title" content="co-op"/>
-<meta name="twitter:description" content="Kelvin Lin, M.S. in Computer Science (Georgia Tech), P.Eng (Ontario), CISSP, PMP | B.Eng.Mgt. in Software Engineering and Management Co-op (McMaster), B.A. in Economics (McMaster)"/>
+<meta name="twitter:title" content="Kelvin Lin"/>
+<meta name="twitter:description" content="Kelvin Lin | M.S. in Computer Science (Georgia Tech), P.Eng, CISSP, PMP"/>
 
-    <meta property="og:title" content="co-op" />
-<meta property="og:description" content="Kelvin Lin, M.S. in Computer Science (Georgia Tech), P.Eng (Ontario), CISSP, PMP | B.Eng.Mgt. in Software Engineering and Management Co-op (McMaster), B.A. in Economics (McMaster)" />
+    <meta property="og:title" content="Kelvin Lin" />
+<meta property="og:description" content="Kelvin Lin | M.S. in Computer Science (Georgia Tech), P.Eng, CISSP, PMP" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://kelvinlin.com/tags/co-op/" /><meta property="og:image" content="https://kelvinlin.com/images/kelvin_lin.jpg"/>
+<meta property="og:url" content="https://kelvinlin.com/" /><meta property="og:image" content="https://kelvinlin.com/images/kelvin_lin.jpg"/>
 
 
 
     <meta name="google-site-verification" content="_1C_zObfPMXF5R2CfUlMS-z8lzUD3LGDTxlhB-87eqA" />
 
     
-      <base href="https://kelvinlin.com/tags/co-op/">
+      <base href="https://kelvinlin.com/">
     
 
     <script src="https://kelvinlin.com/scripts/do_not_track.js"></script>
 
-    <title>co-op · Kelvin Lin</title>
+    <title>Kelvin Lin</title>
 
     
-      <link rel="canonical" href="https://kelvinlin.com/tags/co-op/">
+      <link rel="canonical" href="https://kelvinlin.com/">
     
 
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700" rel="stylesheet">
@@ -62,7 +62,7 @@
     <link rel="icon" type="image/png" href="https://kelvinlin.com/images/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="https://kelvinlin.com/images/favicon-16x16.png" sizes="16x16">
 
-    <link rel="alternate" type="application/rss+xml" href="https://kelvinlin.com/tags/co-op/index.xml" title="Kelvin Lin" />
+    <link rel="alternate" type="application/rss+xml" href="https://kelvinlin.com/index.xml" title="Kelvin Lin" />
     <meta name="generator" content="Hugo 0.99.0-DEV" />
   </head>
 
@@ -110,29 +110,53 @@
 
       <div class="content">
         
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
-<section class="container list">
-  <article>
-    <header class="title">
-      <h1>co-op</h1>
-    </header>
-  </article>
-  <ul>
+  <section class="container centered">
+  <div class="about">
     
-    <li>
-      <span class="date">June 24, 2019</span>
-      <a class="title" href="https://kelvinlin.com/blog/3-honest-thoughts-on-mcmasters-coop-program/">3 Honest Thoughts on McMaster Engineering&#39;s Co-op Program</a>
-    </li>
+      <div class="avatar"><img src="https://kelvinlin.com/images/kelvin_lin.jpg" alt="avatar"></div>
     
-  </ul>
-  
-
-
-
-
-
-
+    <h1>Kelvin Lin</h1>
+    <h2>M.S. in Computer Science (Georgia Tech)</h2>
+    <h2>B.Eng.Mgt. in Software Engineering and Management Co-op (McMaster)</h2>
+    <h2>B.A. in Economics (McMaster)</h2>
+    
+    <ul>
+      
+        
+          <li>
+            <a href="https://www.linkedin.com/in/kelvin-lin/" aria-label="LinkedIn">
+              <i class="fab fa-linkedin-in" aria-hidden="true"></i>
+            </a>
+          </li>
+        
+      
+        
+          <li>
+            <a href="https://github.com/kelvinkklin/" aria-label="Github">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+          </li>
+        
+      
+        
+          <li>
+            <a href="https://medium.com/@kelvin.lin" aria-label="Medium">
+              <i class="fab fa-medium-m" aria-hidden="true"></i>
+            </a>
+          </li>
+        
+      
+        
+          <li>
+            <a href="https://twitter.com/ThisIsKelvinLin" aria-label="Twitter">
+              <i class="fab fa-twitter" aria-hidden="true"></i>
+            </a>
+          </li>
+        
+      
+    </ul>
+    
+  </div>
 </section>
 
 
@@ -141,7 +165,7 @@
       <footer class="footer">
   <section class="container">
     
-     © 2025
+     © 2023
     
        · 
       Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>

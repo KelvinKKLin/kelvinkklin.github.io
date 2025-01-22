@@ -1,0 +1,86 @@
+---
+title: "About Me"
+date: 2019-05-04T14:44:08-04:00
+description: Hello world, I'm Kelvin - a seasoned Software Engineer building datacenter networking and diagnostic systems at Microsoft. I LOVE creating impactful software systems that make the world a better place while empowering others to do the same.
+keyword: about me, cv, resume, linkedin
+draft: false
+---
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/css/info_pages.css">
+
+Hello world, I'm Kelvin - a seasoned Software Engineer building datacenter networking and diagnostic systems at Microsoft. I LOVE creating impactful software systems that make the world a better place while empowering others to do the same. More details about my work experiences and qualifications can be found on LinkedIn at https://linkedin.com/in/kelvin-lin.
+<br/>
+
+## Work Experience
+---
+* <b>Software Engineer II</b>, Microsoft Corporation - Azure Hyperscale Networking (March 2022—Present)
+* <b>Software Engineer</b>, Microsoft Corporation - Azure Physical Networking (August 2019—February 2022)
+* <b>Teaching Assistant</b>, McMaster University (September 2016—April 2019)
+* <b>Software Engineering Intern</b>, Microsoft Corporation - Azure Physical Networking (May 2018—August 2018)
+* <b>Software Engineering Intern</b>, Syngli Inc. (May 2017—August 2017)
+* <b>CodeMakers Curriculum Coordinator</b>, Venture Engineering and Science at McMaster University (September 2015—August 2016)
+* <b>Lab Instructor</b>, Venture Engineering and Science at McMaster University (May 2015—August 2015)
+* <b>Computer Instructor</b>, LogicFusion Limited (March 2012—August 2014)
+
+## Education <a href="/courses"><small><sup>See Courses</sup></small></a>
+---
+* <b>Master of Science in Computer Science (Specialization in Machine Learning)</b>  
+_GPA: 4.0/4.0_ ; simultaneously completed the requirements for a specialization in <u>Interactive Intelligence</u>.  
+Georgia Institute of Technology, 2022
+
+* <b>Bachelor of Engineering and Management in Software Engineering and Management (Co-op)</b>  
+_Graduated with Distinction ("Summa Cum Laude")_  
+McMaster University, 2019
+
+* <b>Bachelor of Arts in Economics</b>  
+_Graduated with Distinction ("Summa Cum Laude")_  
+McMaster University, 2019
+
+## Licences and Certifications <a href="/awards/#licenses-certifications"><small><sup>See Certifications</sup></small></a>
+---
+* <b>Professional Engineer (P.Eng.)</b>, Professional Engineers Ontario (PEO)
+* <b>Certified Information Systems Security Professional (CISSP)</b>, International Information System Security Certification Consortium (ISC2)
+* <b>Project Management Professional (PMP)&#174;</b>, Project Management Institute (PMI)
+* <b>Certified ScrumMaster (CSM)</b>, Scrum Alliance Inc.
+
+## Awards <a href="/awards/#professional-awards"><small><sup>See Certificates</sup></small></a>
+---
+* <b>Best Teaching Assistant</b>, Software Engineering Society, McMaster University (March 2017)
+
+## Engineering and Programming Competition Results <a href="/awards/#programming-competition-awards"><small><sup>See Certificates</sup></small></a>
+---
+* <b>Second Place</b>, McMaster IEEE Programming Contest (March 2018)
+* <b>Third Place</b>, McMaster Engineering Competition - Programming Division (October 2017)
+* <b>Third Place</b>, Microsoft College Code Competition at McMaster University (September 2017)
+* <b>Third Place</b>, McMaster Engineering Competition - Programming Division (October 2016)
+* <b>Third Place</b>, McMaster ACM-ICPC Qualifier (October 2016)
+* <b>Innovation in Controls</b>, EcoCAR Development Challenge (October 2015)
+* <b>Exemplary Report Award</b>, EcoCAR Development Challenge (October 2015)
+* <b>Runner-up</b>, EPIC Game Development Challenge (February 2015)
+
+## Extracurricular Activities
+---
+* <b>Member</b>, McMaster Competitive Programming Team (September 2016—April 2019)
+* <b>Chief Judging Officer</b>, Canada's Next Top Ad Exec (September 2018—April 2019)
+* <b>Member</b>, McMaster EcoCAR3 Controls Team (September 2015—April 2018)
+* <b>Member</b>, McMaster Programming Club (September 2014—April 2015)
+
+## Volunteering
+---
+* <b>Student Notetaker</b>, McMaster Accessibility Services (January 2015—April 2019)
+* <b>Child Life Volunteer</b>, SickKids Hospital (August 2013)
+* <b>Camp Volunteer</b>, City of Markham (March 2011—March 2013)
+* <b>Camp Inclusion Volunteer</b>, City of Markham (March 2011—March 2013)
+
+## Programming Languages
+---
+* C
+* C++
+* C#
+* HTML/CSS/JavaScript/TypeScript
+* Java
+* Kusto Query Language (KQL)
+* SQL
+* PHP
+* Python

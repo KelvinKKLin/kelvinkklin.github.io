@@ -1,7 +1,7 @@
 ---
 title: "Awards and Certificates"
 date: 2019-05-05T16:23:21-04:00
-description: Here are a selection of awards and certificates that I've received from work, Organization, and participating in programming and engineering competitions - Professional-Development (3 certificates), Programming and Engineering Competition Awards (5 certificates), Professional Awards (1 certificate).
+description: Here are a selection of awards and certificates that I've received from work, Organization, and participating in programming and engineering competitions - Licences and Certifications (4 certificates), Professional Development (4 certificates), Programming and Engineering Competition Awards (5 certificates), Professional Awards (1 certificate).
 keyword: awards, certificates
 draft: false
 ---
@@ -10,26 +10,77 @@ draft: false
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <link rel="stylesheet" type="text/css" href="/css/info_pages.css">
 
-Here are a selection of awards and certificates that I've received from work, Organization, and participating in programming and engineering competitions.
+Here are a selection of awards and certificates that I've received from professional development, work, and participating in programming and engineering competitions.
 
-<!-- Professional-Development -->
-<div><a class="dropdown-text" data-toggle="collapse" href="#Professional-Development" role="button" aria-expanded="false" aria-controls="Professional-Development"><h2><i class="fas fa-plus-circle"></i><i class="fas fa-minus-circle"></i>Professional Development (4 certificates)</h2><hr></a></div>
-<div class="row project_container collapse" id="Professional-Development">
-	<!-- Certified ScrumMaster -->
+<div><a class="dropdown-text" data-toggle="collapse" href="#licenses-certifications" role="button" aria-expanded="false" aria-controls="licenses-certifications"><h2><i class="fas fa-plus-circle"></i><i class="fas fa-minus-circle"></i>Licences & Certifications (4 certificates)</h2><hr></a></div>
+
+<!-- Licences and Certifications -->
+<div class="row project_container collapse" id="licenses-certifications">
+    <!-- Professional Engineer (P.Eng, Ontario) -->
+    <div class="project col-sm-6 col-md-6 col-lg-4 text-center">
+        <div class="front_face">
+            <div class="icon">
+                <div class="col">
+                    <h2><a href="https://www.credential.net/27b47b33-1589-4009-8ba2-e9549cc8ba6f" target="_blank">Professional Engineer (P.Eng) Licence</h2>
+                    <img class="tile no-border" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/96373545" alt="Professional Engineer (P.Eng) licence from Professional Engineers Ontario"></a>
+                </div>
+            </div>
+            <div class="summary">
+                <b>Professional Engineers Ontario</b><br/>
+                Under the Professional Engineers Act, holders of the professional engineering licence from Professional Engineers Ontario are entitled to practice as a professional engineer in the Province of Ontario. To obtain the licence, holders have to fulfill specified academic requirements, obtain a minimum of 48 months of verifiable professional engineering experience, and be of good character.
+            </div>
+        </div>
+    </div>
+	<!-- Certified Information Systems Security Professional (CISSP) -->
+    <div class="project col-sm-6 col-md-6 col-lg-4 text-center">
+        <div class="front_face">
+            <div class="icon">
+                <div class="col">
+                    <h2><a href="https://www.credly.com/badges/565a504b-9434-4c74-ad92-a3fce6f528ee/public_url" target="_blank">Certified Information Systems Security Professional (CISSP)</h2>
+                    <img class="tile no-border" src="/images/certifications/certified-information-systems-security-professional-cissp.png" alt="Certified Information Systems Security Professional (CISSP) from ISC2"></a>
+                </div>
+            </div>
+            <div class="summary">
+                <b>International Information System Security Certification Consortium</b><br/>
+                Earners of the CISSP certification have demonstrated their extensive knowledge in key information security domains such as risk management, communications and network security, and identity and access management. They possess the skills needed to design, implement, and manage top-tier cybersecurity programs.
+            </div>
+        </div>
+    </div>
+    <!-- Project Management Professional (PMP) -->
+    <div class="project col-sm-6 col-md-6 col-lg-4 text-center">
+        <div class="front_face">
+            <div class="icon">
+                <div class="col">
+                    <h2><a href="https://www.credly.com/badges/3882990c-2545-4659-9ec7-95bb04c07d23/public_url" target="_blank">Project Management Professional (PMP)&#174;</h2>
+                    <img class="tile no-border" src="/images/certifications/project-management-professional-pmp.png" alt="Project Management Professional (PMP)&#174; Certification"></a>
+                </div>
+            </div>
+            <div class="summary">
+                <b>Project Management Institute</b><br/>
+                Earners of the PMP&#174; certification have demonstrated their extensive knowledge and mastery of project management concepts, tasks, and techniques that are applicable across virtually any industry and methodology. They are able to speak and understand the global language of project management, and have demonstrated the knowledge and skills needed to initiate, plan, execute, monitor and control, and close a project.
+            </div>
+        </div>
+    </div>
+    <!-- Certified ScrumMaster -->
     <div class="project col-sm-6 col-md-6 col-lg-4 text-center">
         <div class="front_face">
             <div class="icon">
                 <div class="col">
                     <h2><a href="https://bcert.me/stpxkzmjk" target="_blank">Certified ScrumMaster (CSM)</h2>
-                    <img class="tile no-border" src="/images/professional-development/seal-csm.png" alt="Scrum Alliance Certified ScrumMaster (CSM) Certification"></a>
+                    <img class="tile no-border" src="/images/certifications/seal-csm.png" alt="Scrum Alliance Certified ScrumMaster (CSM) Certification"></a>
                 </div>
             </div>
             <div class="summary">
                 <b>Organization:</b> Scrum Alliance<br/>
-                My CSM certification encompassed knowledge of Scrum methodologies, Agile principles, effective team facilitation, and the ability to promote a culture of collaboration and continuous improvement in projects and organizations. It validates my expertise in implementing Scrum practices and driving successful Agile transformations.
+                The CSM certification encompassed knowledge of Scrum methodologies, Agile principles, effective team facilitation, and the ability to promote a culture of collaboration and continuous improvement in projects and organizations. It validates expertise in implementing Scrum practices and driving successful Agile transformations.
             </div>
         </div>
     </div>
+</div>
+
+<!-- Professional Development -->
+<div><a class="dropdown-text" data-toggle="collapse" href="#professional-development" role="button" aria-expanded="false" aria-controls="professional-development"><h2><i class="fas fa-plus-circle"></i><i class="fas fa-minus-circle"></i>Professional Development (3 certificates)</h2><hr></a></div>
+<div class="row project_container collapse" id="professional-development">
     <!-- Udacity AI Nanodegree -->
     <div class="project col-sm-6 col-md-6 col-lg-4 text-center">
         <div class="front_face">
@@ -56,7 +107,7 @@ Here are a selection of awards and certificates that I've received from work, Or
             </div>
             <div class="summary">
                 <b>Organization:</b> MongoDB University<br/>
-                M101J covered topics such as no-SQL databases, MongoDB's document model and basic schema design, MongoDB CRUD operations, and how to read and write to a MongoDB database using Java.
+                In M101J, I learned about MongoDB's no-SQL databases, document model, schema design, and CRUD operations, equipping me with practical skills for effectively using MongoDB with the Java programming language.
             </div>
         </div>
     </div>
@@ -72,6 +123,26 @@ Here are a selection of awards and certificates that I've received from work, Or
             <div class="summary">
                 <b>Organization:</b> Stanford Online | Lagunita<br/>
                 I learned about regression, LDA, cross-validation, model selection, regularization, bootstrapping, nonlinear models, splines, GAM, random forests, boosting, SVM, clustering, and PCA.
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Professional Awards -->
+<div><a class="dropdown-text" id="pro-awards" data-toggle="collapse" href="#professional-awards" role="button" aria-expanded="false" aria-controls="professionalAwards"><h2><i class="fas fa-plus-circle"></i><i class="fas fa-minus-circle"></i>Professional Awards (1 certificate)</h2><hr></a></div>
+<div class="row project_container collapse" id="professional-awards">
+    <!-- Best Teaching Assistant -->
+    <div class="project col-sm-6 col-md-6 col-lg-4 text-center">
+        <div class="front_face">
+            <div class="icon">
+                <div class="col">
+                    <h2><a href="/images/awards/best-teaching-assistant-2017.jpg" target="_blank">Best Teaching Assistant Award</h2>
+                    <img class="tile" src="/images/awards/best-teaching-assistant-2017.jpg" alt="Kelvin Lin's Best Teaching Assistant Award"></a>
+                </div>
+            </div>
+            <div class="summary">
+                <b>Awarded:</b> April, 2017<br/>
+                A nomination-based award from computing and software students for a teaching assistant who is dedicated to consistently providing high-quality educational content.
             </div>
         </div>
     </div>
@@ -152,26 +223,6 @@ Here are a selection of awards and certificates that I've received from work, Or
             <div class="summary">
                 <b>Awarded:</b> October, 2015<br/>
                 A 4-week engineering challenge where teams of 3 students build a fully autonomous robot to navigate a maze. Awarded for designing an innovative control system for the robot.
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- Professional Awards -->
-<div><a class="dropdown-text" id="pro-awards" data-toggle="collapse" href="#professional-awards" role="button" aria-expanded="false" aria-controls="professionalAwards"><h2><i class="fas fa-plus-circle"></i><i class="fas fa-minus-circle"></i>Professional Awards (1 certificate)</h2><hr></a></div>
-<div class="row project_container collapse" id="professional-awards">
-    <!-- Best Teaching Assistant -->
-    <div class="project col-sm-6 col-md-6 col-lg-4 text-center">
-        <div class="front_face">
-            <div class="icon">
-                <div class="col">
-                    <h2><a href="/images/awards/best-teaching-assistant-2017.jpg" target="_blank">Best Teaching Assistant Award</h2>
-                    <img class="tile" src="/images/awards/best-teaching-assistant-2017.jpg" alt="Kelvin Lin's Best Teaching Assistant Award"></a>
-                </div>
-            </div>
-            <div class="summary">
-                <b>Awarded:</b> April, 2017<br/>
-                A nomination-based award from computing and software students for a teaching assistant who is dedicated to consistently providing high-quality educational content.
             </div>
         </div>
     </div>

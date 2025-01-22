@@ -3,4 +3,6 @@ if(window.location.hash == "#professional-awards"){
     $("#professional-awards").collapse("show");
 } else if(window.location.hash == "#programming-competition-awards"){
     $("#programming-competition-awards").collapse("show");
+} else if (window.location.hash == "#licenses-certifications"){
+    $("#licenses-certifications").collapse("show");
 }

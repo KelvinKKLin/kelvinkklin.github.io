@@ -6,7 +6,7 @@
     <description>Recent content on Kelvin Lin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Kelvin Lin © 2022</copyright>
+    <copyright>Kelvin Lin © 2025</copyright>
     <lastBuildDate>Sun, 18 Dec 2022 08:30:00 +0000</lastBuildDate><atom:link href="https://kelvinlin.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>100 Days of HAM</title>
@@ -130,7 +130,7 @@ Having recently graduated with concurrent double degrees in Software Engineering
       <pubDate>Sat, 18 May 2019 16:25:08 -0400</pubDate>
       
       <guid>https://kelvinlin.com/contact/</guid>
-      <description>Want to contact me? Email me at kelvinlin (at) gatech.edu, send me a message on LinkedIn, or fill out the form below, and I&amp;rsquo;ll get back to you as soon as I can.
+      <description>Want to contact me? Send me a message on LinkedIn, and I&amp;rsquo;ll get back to you as soon as I can.
 Please do not contact me with unsolicited services or marketing. I do not host guest articles on my blog. I do not provide tutoring services or academic counselling.</description>
     </item>
     
@@ -161,7 +161,7 @@ I only ask for personal information when we truly need it to provide a service t
       
       <guid>https://kelvinlin.com/awards/</guid>
       <description>Here are a selection of awards and certificates that I&amp;rsquo;ve received from professional development, work, and participating in programming and engineering competitions.
-Professional Development (4 certificates)Certified ScrumMaster (CSM)Organization: Scrum AllianceMy CSM certification encompassed knowledge of Scrum methodologies, Agile principles, effective team facilitation, and the ability to promote a culture of collaboration and continuous improvement in projects and organizations. It validates my expertise in implementing Scrum practices and driving successful Agile transformations.</description>
+Licences &amp; Certifications (4 certificates)Professional Engineer (P.Eng) LicenceProfessional Engineers OntarioUnder the Professional Engineers Act, holders of the professional engineering licence from Professional Engineers Ontario are entitled to practice as a professional engineer in the Province of Ontario. To obtain the licence, holders have to fulfill specified academic requirements, obtain a minimum of 48 months of verifiable professional engineering experience, and be of good character.</description>
     </item>
     
     <item>
@@ -180,9 +180,8 @@ Project ImacsA non-linear text editor/file visualization tool created for my
       <pubDate>Sat, 04 May 2019 14:44:08 -0400</pubDate>
       
       <guid>https://kelvinlin.com/about/</guid>
-      <description>Hello world, I&amp;rsquo;m Kelvin - a recent Master of Science in Computer Science graduate from Georgia Tech. I LOVE engineering impactful software systems that make the world a better place while empowering others to do the same. More details about my work experiences and qualifications can be found on LinkedIn at https://linkedin.com/in/kelvin-lin. 
-Education See Courses    Master of Science in Computer Science (Specialization in Machine Learning)
-GPA: 4.</description>
+      <description>Hello world, I&amp;rsquo;m Kelvin - a seasoned Software Engineer building datacenter networking and diagnostic systems at Microsoft. I LOVE creating impactful software systems that make the world a better place while empowering others to do the same. More details about my work experiences and qualifications can be found on LinkedIn at https://linkedin.com/in/kelvin-lin. 
+Work Experience   Software Engineer II, Microsoft Corporation - Azure Hyperscale Networking (March 2022—Present) Software Engineer, Microsoft Corporation - Azure Physical Networking (August 2019—February 2022) Teaching Assistant, McMaster University (September 2016—April 2019) Software Engineering Intern, Microsoft Corporation - Azure Physical Networking (May 2018—August 2018) Software Engineering Intern, Syngli Inc.</description>
     </item>
     
   </channel>
